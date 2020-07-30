@@ -1,0 +1,65 @@
+body{
+  font-family: "Avenir Next";
+}
+
+li{
+  list-style: none;
+}
+
+.header-list li{
+  float: left;
+  padding: 33px 20px;
+}
+
+.header{
+  background-color: black;
+  height: 90px;
+  color: #fff;
+}
+.logo1{
+  padding:20px 40px;
+  font-size: 36px;
+  float: left;
+}
+.header-list li{
+  float: left;
+  padding: 33px 20px;
+}
+
+.top-wrapper{
+  margin: 0 0 100px 0;
+}
+
+.container{
+  height;1200px;
+  margin:auto;
+  font-weight: :bold;
+  text-align: center;
+
+  position:absolute;
+  padding: 100px;
+  right: 600px;
+  top: 100px;
+  bottom: 0;
+}
+
+ .bg{
+   padding:780px 0 100px 0;
+   background-image:url(http://pic.prepics-cdn.com/tonaritotoro/21383318.jpeg);
+   background-size: cover;
+   opacity: 0.9;
+ }
+
+.contents{
+  height:200px
+  margin:100px 80px;
+}
+.contents-item{
+  float: left;
+  margin-right: 40px;
+}
+
+.contents-item p{
+  font-size: 24px;
+  padding-top: 10px;
+}
